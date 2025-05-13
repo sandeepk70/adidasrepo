@@ -1,0 +1,13 @@
+
+|Employee_ID|       Name| Department|Salary|  Hire_Date|     Location|
+
+|          1|   John Doe|         IT| 85000|2015-06-15|     New York|
+|          2|  Jane Smith|         HR| 70000|2016-03-22|San Francisco|
+|          3| Alice Brown|  Marketing| 75000|2018-01-30|     Chicago |
+|          4| Bob Johnson|         IT| 90000|2017-11-11|     New York|
+|          5| Carol White|    Finance| 95000|2019-09-05|  Los Angeles|
+|          6| David Green|  Marketing| 72000|2020-02-18|     Chicago |
+|          7|   Eve Black|         HR| 67000|2017-05-24|San Francisco|
+|          8| Frank Clark|         IT| 80000|2021-07-13|     New York|
+|          9|  Grace Lee|         HR| 74000|2022-04-01|San Francisco|
+|         10| Henry Scott|    Finance|105000|2014-12-09|  Los Angeles|
